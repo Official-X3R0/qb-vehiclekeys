@@ -1,7 +1,7 @@
 # qb-vehiclekeys
 qb-vehiclekeys edited to work with all NoPixel 4.0 minigames - pre configured in the config file.
 
-![image]([https://github.com/user-attachments/assets/dc212e16-8ff2-4933-9003-ec58c10c6c01](https://imgur.com/j2fQaCb))
+https://imgur.com/j2fQaCb.png
 
 Just uncomment/comment what minigame you want to use.
 
