@@ -14,6 +14,11 @@ Just uncomment/comment what minigame you want to use.
 ![image](https://github.com/user-attachments/assets/f8660439-7ed7-4f67-8ac7-89ced1065659)
 ![image](https://github.com/user-attachments/assets/a8ba4a94-8d14-4ebe-98e6-a83316993f71)
 
+INSTALLATION:
+
+Replace qb-vehiclekeys with this version
+Add skillchecks resource to folder of your choice and make sure it gets ensured in you server.cfg/resources.cfg
+
 
 CREDITS:
 
